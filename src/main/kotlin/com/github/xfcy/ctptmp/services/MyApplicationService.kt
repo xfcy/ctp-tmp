@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xfcy.ctptmp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xfcy.ctptmp.MyBundle
 
 class MyApplicationService {
 
